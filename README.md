@@ -1,6 +1,10 @@
 # Unlimited Generate Image
 
-Proyek ini adalah generator gambar berbasis AI menggunakan model Stable Diffusion XL (SDXL) dari Stability AI. Proyek ini menyediakan antarmuka web menggunakan Gradio dan REST API menggunakan FastAPI yang diekspos melalui ngrok.
+### About
+Unlimited Image Generation using Stable Diffusion XL (SDXL). This project provides a powerful yet simple way to generate high-quality images using the SDXL model. It features a dual-interface approach: a REST API powered by FastAPI (exposed via ngrok for remote access) and an interactive web interface built with Gradio.
+
+### Tags
+`#stable-diffusion` `#sdxl` `#fastapi` `#gradio` `#ngrok` `#image-generation` `#ai` `#python` `#deep-learning` `#text-to-image`
 
 ## Fitur
 - **Stable Diffusion XL**: Menggunakan model SDXL terbaru untuk kualitas gambar tinggi.

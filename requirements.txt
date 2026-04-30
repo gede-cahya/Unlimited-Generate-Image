@@ -1,0 +1,12 @@
+torch
+transformers
+diffusers
+accelerate
+safetensors
+fastapi
+uvicorn
+pyngrok
+gradio
+pydantic
+python-dotenv
+nest-asyncio
